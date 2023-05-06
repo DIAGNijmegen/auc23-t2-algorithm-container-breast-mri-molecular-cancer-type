@@ -1,0 +1,9 @@
+{
+  "input_interfaces": [
+    "t1-subtraction-mri"
+  ],
+  "output_interfaces": [
+    "probabilities-breast-cancer-molecular-subtypes"
+  ],
+  "roi_segmentation_interface": null
+}
